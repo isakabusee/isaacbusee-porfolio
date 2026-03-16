@@ -44,10 +44,14 @@ const AboutSection = () => (
           About <span className="text-primary text-glow">Me</span>
         </h2>
         <p className="max-w-2xl text-muted-foreground">
-          I'm Isaac Busee — a software engineer who thrives at the intersection of
-          design and engineering. I build tools and platforms that solve real
-          problems, from seamless digital payments to community-driven web
-          experiences.
+          Hello! I am a software engineer with a strong foundation in JavaScript, Python, and Java, focused on building reliable, scalable, and efficient software systems. I enjoy solving complex problems and translating ideas into well-structured, maintainable code. My experience spans designing backend services, developing interactive web applications, and working with modern development workflows such as version control and CI/CD pipelines.
+
+I approach engineering with a balance of technical precision and practical problem-solving. Whether implementing APIs, optimizing application performance, or integrating cloud-based services, I prioritize clean architecture, readability, and long-term maintainability. I am particularly interested in building systems that are both performant and user-centric.
+
+Continuously learning and adapting to new technologies is a key part of my workflow. I stay engaged with evolving tools and frameworks across the JavaScript, Python, and Java ecosystems, allowing me to select the right technologies for each project.
+
+My goal as an engineer is to create impactful software that solves real-world problems, collaborate effectively with teams, and contribute to products that are robust, scalable, and meaningful.
+
         </p>
       </motion.div>
       <motion.div
